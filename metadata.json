@@ -1,0 +1,6 @@
+{
+  "name": "Bhuj Moto Club",
+  "description": "Official platform of Bhuj Moto Club (BMC). Adventure motorcycle touring, HimalayanOS navigation, ATGATT safety, desert expeditions across Kutch, and rider brotherhood.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
